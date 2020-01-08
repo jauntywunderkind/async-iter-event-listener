@@ -1,0 +1,22 @@
+{
+	"name": "async-iter-event-listener",
+	"version": "1.0.0",
+	"description": "Get an asynchronous iterator for a stream of EventTarget/EventEmitter events",
+	"main": "async-iter-event-listener.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.eldergods.com/async-iter-event-listener"
+	},
+	"keywords": [],
+	"author": "jauntywunderkind",
+	"license": "MIT",
+	"module": "async-iter-event-listener.js",
+	"esm": true,
+	"type": "module",
+	"dependencies": {
+		"async-iter-pipe": "^1.0.3"
+	}
+}
